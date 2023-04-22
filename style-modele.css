@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+body {
+    background: #f0f0f0;
+}
+
+.contenu p {
+    color: #696666;
+}
+
+.enveloppe {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.grille {
+    background: initial;
+    border: initial;
+}
+
+.boite {
+    background: white;
+    margin-bottom: 26px;
+    padding: 0;
+}
+
+.titre,
+.extrait {
+    padding: 12px;
+}
+
+.titre {
+    margin: 10px 0;
+}
+
+.extrait {
+    margin: 0;
+    line-height: 1.4;
+}
